@@ -1,1 +1,3 @@
 ehejjhj
+take inp frm user
+add the values
